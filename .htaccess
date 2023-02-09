@@ -1,0 +1,7 @@
+AddEncoding gzip .gz
+
+<FilesMatch "\.(js|css|html|svg)\.gz$">
+  ForceType text/plain
+  Header set Content-Encoding: gzip
+  Header set Vary: Accept-Encoding
+</FilesMatch>
