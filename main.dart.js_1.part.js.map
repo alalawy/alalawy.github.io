@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_1.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/components/header.dart","../../../../../flutter/packages/flutter/lib/src/widgets/basic.dart","../../../../../flutter/packages/flutter/lib/src/painting/alignment.dart","../../../../../flutter/packages/flutter/lib/src/painting/edge_insets.dart","../../../../../flutter/packages/flutter/lib/src/widgets/media_query.dart","../../../../../flutter/bin/cache/flutter_web_sdk/lib/ui/geometry.dart","../../../../../flutter/bin/cache/flutter_web_sdk/lib/ui/painting.dart","../../../../../flutter/packages/flutter/lib/src/painting/box_decoration.dart"],
+  "names": ["a1","a1.build","","fromSTEB","of","width"],
+  "mappings": "A;0DAIQA;2BAAgCA,C;;;;;;;;;;;;;;CAG/BC,IACEA;AAAPA,cAMSA,UACKA,KACFA,qCAIQA,aCkhEhBA,SC7oDAA,qBFjYWA,KAGKA,KCw2DhBA,QElvCAA,kBHnnBuBA,6CAICA,QI01BrBA,SAAwDA,EJ51BjBA,EKiE5BA,WJkyDdA,QElvCAA,mBH1mBiBA,KAIKA,KACRA,8BAESA,mCAGkBA,gCAG3BA,KAEYA,KACRA,kBAESA,mCARcA,gCCk1DzCA,QElvCAA,kBH/kB6BA,mBAEEA,UAESA,4BArBCA,gDAxBRA,IC02DjCA,QElvCAA,kBHlkByBA,kHAEEA,SM3C3BA,4CN+C6CA,mCC8yD7CA,QElvCAA,kBHvjBuBA,KAEKA,KACFA,sDAIQA,YCkyDlCA,QElvCAA,kBH3iBqCA,2DALHA,4BAxEDA,YAiBkBA,IADFA,KAhBhBA,YACYA,SADZA,qBO6DjCA,SDhDAA,+BCgDAA,gBPkCNA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "0dAsBUES;AACaAqB;UAKPAQ;AACiCCkB;qDAGXCW;EAAiBCW;AAKvCHQ;AACiCCmB;0MAyBvBDQ;AAE8BCkB;6GAYlCDQ;AACmCCkB;2HAKpBD4C;mCAKfAQ;AACiCCkB;4EAU3BDQ;AAE8BCkB;sJA1FxCDS;AACHA+B;AADGAgB;"
+  }
+}

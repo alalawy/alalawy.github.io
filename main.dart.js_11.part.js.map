@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_11.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/components/header%20copy.dart"],
+  "names": ["a2","a2.build"],
+  "mappings": "A;0DAIQA;2BAAgCA,C;;;;;;;;CAG/BC,IACLA,QAAaA,GAUfA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": ""
+  }
+}

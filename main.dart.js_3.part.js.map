@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_3.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../flutter/packages/flutter/lib/src/painting/edge_insets.dart"],
+  "names": ["EdgeInsetsDirectional._start","EdgeInsetsDirectional._top","EdgeInsetsDirectional._end","EdgeInsetsDirectional._bottom","EdgeInsetsDirectional._left","EdgeInsetsDirectional._right","EdgeInsetsDirectional.add","EdgeInsetsDirectional.-","EdgeInsetsDirectional.+","EdgeInsetsDirectional.*","EdgeInsetsDirectional.resolve","fromSTEB","fromLTRB"],
+  "mappings": "A;;;;;;;;;GAutBaA,IAAUA,aAAKA,C;GASfC,IAAQA,aAAGA,C;GAUXC,GAAQA,aAAGA,C;GASXC,IAAWA,aAAMA,C;GAGjBC,IAASA,QAAGA,C;GAGZC,IAAUA,QAAGA,C;CAkBLC,MAEHA,oBAAZA,kBAGJA;AADEA,OAAaA,YACfA,C;EAG+BC,MAC7BA;OAnIIA,SAoIFA,IAAcA,IACdA,IAAYA,IACZA,IAAYA,IACZA,IAAeA,GAEnBA,C;CAG+BC,MAC7BA;OA7IIA,SA8IFA,IAAcA,IACdA,IAAYA,IACZA,IAAYA,IACZA,IAAeA,GAEnBA,C;CAiB+BC,MAC7BA;OArKIA,SAsKFA,MACAA,MACAA,MACAA,KAEJA,C;CAgEWC,IAAkCA;AAhiBvCA,QAkiBaA,WAEbA,iBAA2BA,IAAKA,IAAKA,IAAOA,GAIlDA;OAFMA,OAtiBAA,UAsiB2BA,IAAOA,IAAKA,IAAKA,GAElDA,E",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "2eAoxBiCWS;2DAUAAS;2DAwBAAS;0CA0EPCQ;0DAEAAU;"
+  }
+}

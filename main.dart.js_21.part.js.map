@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_21.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../flutter/bin/cache/flutter_web_sdk/lib/ui/text.dart","org-dartlang-sdk:///lib/_internal/js_runtime/lib/core_patch.dart","../../../../../flutter/packages/flutter/lib/src/widgets/icon.dart","../../../../../flutter/packages/flutter/lib/src/widgets/basic.dart","../../../../../flutter/packages/flutter/lib/src/widgets/icon_theme.dart","../../../../../flutter/packages/flutter/lib/src/widgets/icon_theme_data.dart","../../../../../flutter/bin/cache/flutter_web_sdk/lib/ui/painting.dart","../../../../../flutter/packages/flutter/lib/src/widgets/icon_data.dart"],
+  "names": ["FontVariation.==","FontVariation.hashCode","FontVariation.toString","Icon.build","IconTheme.of","IconThemeData.isConcrete","Color.opacity","Color.withOpacity","Color.withAlpha","IconData.==","IconData.hashCode","IconData.toString","runtimeType","of","isConcrete","opacity","alpha","withOpacity","withAlpha","red","green","blue","fromCharCode",""],
+  "mappings": "A;;;;;;;;;;;;;;;CAkMgBA,MAAEA,mBAOhBA;AANYA,YC/HYA,UDgIpBA,QAKJA;AAHEA,2BACaA,SAAQA,KACRA,SAASA,EACxBA,C;EAGQC,IAAYA,OAAOA,QAAKA,OAAMA,2EAAMA,C;CAGrCC,IAAcA,4BAAiBA,SAAQA,eAAOA,C;;CE2B9CC,ICvDyBA;CAA4DA;GAC5EA;AC7GsBA,WAAoCA;GC2CnDC;;UAClBA,aACAA,aACAA,aACAA,aACAA,aAwCkBC;AAA0BA,oCAA1BD;;;;;;KHiFYD;UI5LGG;GFwBZH;WCmFuBE;GDlFrBF;WAAyCA;GAC1CA;WCiFsBE;GDhFhBF;WAA8CA;GACpDA;cAAwCA;GC+E5CC;AAA0BA;;GD7EpBD;AARvBA,wCFsKqBA;cAAkBA;GAEAA;GAEIA;GAEFA;GAEYA;GGzFpCA;AAA0BA;WAAAE;MHqG7BF;eAAmBA;CAAKA;AAE5BA,IADdA,SI3MaI,OAKWJ,aAXKG,0BAEFE,iBACEA,gBACDA;AL6eVL,WCxRYA,EAAMA;AAECA;AAC7BA,WAD6BA,OFxFjCA;AE0FIA,WAF6BA,OFxFjCA;AE2FIA,WAH6BA,OFxFjCA;AE4FIA,WAJ6BA,OFxFjCA;AEkFgBA,aACKA,aAEjBA,QAEGA,mEApB4CA;AAoDvDA,OAAOA,OCiwNHA,YD9vNOA,MAGEA,uDAMfA,C;;CKxQcM,MACZA;AADcA,mBAShBA;AARYA,YNiBYA,UMhBpBA,QAOJA;yBAJeA,SAAaA,GACbA;KAEAA;;AAJbA,QAKFA,C;EAGQC,IAAYA,OAAOA,QAAKA,2FAAuDA,C;CAGhFC,IAAcA,oBAA0CA,OAA5BA,0CAA4DA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "2aAmM6BYU;4PEyCgDC4E;AAE/BAmBEtKrBCwFCgDlBCuC,A,ADvCkEA4D,A;cFqLvBAAIjN1BCQ,A;AJyLsBHcEtKrBCACgDlBCO,A,qCDhDkBDACgDlBCO,A,6CDvCwBAqC,AAA0CAgB,2C;+CFkLhCAqC;AArBKFAEtKrBCACgDlBCU,A,A;6CH8IWEAIvMPCO,a;AJuMuCHAIjN1BC0B,A;AJiNNCAIvMPCAALkBCiB,AAAKCgB,AAAOCa,A,A;AJmNpBCW;sCAGaCoB;kBACEAoB;kBACDAoB;kBACMAoB;+IA6B5BAY;8HK7PgBXU;"
+  }
+}

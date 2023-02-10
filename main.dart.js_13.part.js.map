@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_13.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/components/header%20copy%203.dart","../../../../../flutter/packages/flutter/lib/src/widgets/basic.dart","../../../../../flutter/packages/flutter/lib/src/painting/edge_insets.dart","../../../../../flutter/bin/cache/flutter_web_sdk/lib/ui/painting.dart"],
+  "names": ["a4","a4.build","","fromSTEB"],
+  "mappings": "A;0DAIQA;2BAAgCA,C;;;;;;;CAG/BC,IACLA;OC23DIA,QClvCAA,kBFvoBKA,+FAGEA,SGyBPA,oDHrByBA,4BALJA,SAS3BA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "yTAQWEQ;AAC0BCkB;wGAMpBDoD;"
+  }
+}
